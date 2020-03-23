@@ -156,6 +156,7 @@
       <option name="presentableId" value="Default" />
       <updated>1584966842716</updated>
       <workItem from="1584966848058" duration="1584000" />
+      <workItem from="1584968724104" duration="268000" />
     </task>
     <task id="LOCAL-00001" summary="线性数据结构练习 + 网络编程练习">
       <created>1584968276217</created>
@@ -175,7 +176,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -210,6 +213,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1584968349827" />
+    <state x="375" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1584968723634">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="375" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1584968723634" />
     <state x="381" y="265" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1584967519356">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

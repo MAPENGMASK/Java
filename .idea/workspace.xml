@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a824f938-b3d3-494f-bb3a-186e419ae21d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +62,20 @@
       <recent name="F:\GitRepository\JavaBase\src" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.DoubleNodeTest">
+    <configuration name="DoubleNodeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructure.DoubleNodeTest" />
+      <module name="JavaBase" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="datastructure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="QueueTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaBase" />
       <extension name="coverage">
@@ -141,6 +155,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DoubleNodeTest" />
         <item itemvalue="JUnit.QueueTest" />
       </list>
     </recent_temporary>
@@ -156,7 +171,7 @@
       <option name="presentableId" value="Default" />
       <updated>1584966842716</updated>
       <workItem from="1584966848058" duration="1584000" />
-      <workItem from="1584968724104" duration="268000" />
+      <workItem from="1584968724104" duration="780000" />
     </task>
     <task id="LOCAL-00001" summary="线性数据结构练习 + 网络编程练习">
       <created>1584968276217</created>
@@ -193,22 +208,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="295" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1584968275219" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1584968444247">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1584969516900">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584968444247" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1584968444246">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584969516900" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1584969516900">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584968444246" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1584968444246">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584969516900" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1584969516900">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584968444246" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1584968444247">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584969516900" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1584969516900">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584968444247" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584969516900" />
     <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1584968349827">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

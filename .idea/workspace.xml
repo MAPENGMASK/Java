@@ -1,29 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a824f938-b3d3-494f-bb3a-186e419ae21d" name="Default Changelist" comment="线性数据结构练习 + 网络编程练习">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaBase.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeeCode/twoSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datastructure/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datastructure/DoubleNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datastructure/LoopNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datastructure/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datastructure/Queue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datastructure/Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/socket/TCPclient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/socket/TCPserver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/socket/UDPclient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/socket/UDPserver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/datastructure/DoubleNodeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/datastructure/LoopNodeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/datastructure/NodeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/datastructure/QueueTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/datastructure/StackTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="a824f938-b3d3-494f-bb3a-186e419ae21d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -176,34 +155,61 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584966842716</updated>
-      <workItem from="1584966848058" duration="1225000" />
+      <workItem from="1584966848058" duration="1584000" />
     </task>
+    <task id="LOCAL-00001" summary="线性数据结构练习 + 网络编程练习">
+      <created>1584968276217</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584968276217</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="线性数据结构练习 + 网络编程练习" />
+    <option name="LAST_COMMIT_MESSAGE" value="线性数据结构练习 + 网络编程练习" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1584968234320">
+    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1584968275219">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1584968234320" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1584968150036">
+    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1584968275219" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1584968444247">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584968150036" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1584968150036">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584968444247" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1584968444246">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584968150036" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1584968150035">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584968444246" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1584968444246">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584968150035" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1584968150036">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584968444246" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1584968444247">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584968150036" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584968444247" />
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1584968349827">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1584968349827" />
     <state x="381" y="265" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1584967519356">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

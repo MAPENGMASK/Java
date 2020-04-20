@@ -29,4 +29,11 @@ public class Stack {
     public int show(){
         return elements[elements.length - 1];
     }
+
+    public boolean isEmpty(){
+        return (elements.length == 0)?true:false;
+    }
+    public int peek(){
+        return elements[elements.length - 1];
+    }
 }

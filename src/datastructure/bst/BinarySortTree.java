@@ -1,6 +1,5 @@
 package datastructure.bst;
 
-import javafx.scene.chart.ValueAxis;
 
 public class BinarySortTree {
     Node root;

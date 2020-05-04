@@ -1,7 +1,5 @@
 package datastructure;
 
-import com.sun.xml.internal.ws.api.model.wsdl.WSDLOutput;
-
 public class BinarySearch {
     public static void main(String[] args) {
         int[] arr = new int[]{1, 2, 3, 4, 5, 6, 7};

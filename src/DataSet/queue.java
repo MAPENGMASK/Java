@@ -23,7 +23,5 @@ public class queue {
         for (String tmp:queue) {
             System.out.println(tmp);
         }
-
-
     }
 }

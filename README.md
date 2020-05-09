@@ -22,7 +22,7 @@ Runtime 运行时类（JVM）
 
 String，StringBuilder，StringBuffer
 
-BigDecimal（精确浮点数）
+BigDecimal（精确数据类型）
 
 ## DataStructure（数据结构实现）
 

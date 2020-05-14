@@ -15,20 +15,23 @@ public class MyClassLoader extends ClassLoader {
     @Override
     protected Class<?> findClass(String name) throws ClassNotFoundException {
         byte[] b = loadClassData(name);
+        //defineClass 加载二进制class文件流
         return defineClass(name,b,0,b.length);
     }
 
     //加载类文件
     private byte[] loadClassData(String name){
+        //全路径
         name = path + name + ".class";
-        InputStream inputStream = null;
-        ByteArrayOutputStream byteArrayOutputStream = null;
+        InputStream in = null;
+
+        ByteArrayOutputStream Out = null;
         try {
-            inputStream = new FileInputStream(new File(name));
-            byteArrayOutputStream = new ByteArrayOutputStream();
+            in = new FileInputStream(new File(name));
+            Out = new ByteArrayOutputStream();
             int i = 0;
-            while ((i = inputStream.read()) != -1){
-                byteArrayOutputStream.write(i);
+            while ((i = in.read()) != -1){
+                Out.write(i);
             }
         } catch (FileNotFoundException e) {
             e.printStackTrace();
@@ -36,12 +39,12 @@ public class MyClassLoader extends ClassLoader {
             e.printStackTrace();
         } finally {
             try {
-                byteArrayOutputStream.close();
-                inputStream.close();
+                Out.close();
+                in.close();
             } catch (IOException e) {
                 e.printStackTrace();
             }
         }
-        return byteArrayOutputStream.toByteArray();
+        return Out.toByteArray();
     }
 }

@@ -1,5 +1,8 @@
 package ByteCodeSample;
 
+/**
+ * 字节码实例
+ */
 public class ByteCodeSample {
     public static void main(String[] args) {
         int i = 1, j = 5;

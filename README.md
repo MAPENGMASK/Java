@@ -2,6 +2,15 @@
 
 每个目录为一个大的模块（如 集合，数据结构，反射，设计模式等），目录的详信息将在二级目录下详细列出
 
+## JVM.model（内存模型）
+
+StackOverflowError：Fibonacci.java
+
+## GC(垃圾回收练习)
+ReferenceQueue
+
+finlize（）-- java9已弃用
+
 ## reflect（反射）
 反射实例：ReflectSample.java
 
